@@ -1,4 +1,6 @@
-Just some machine-learning classes I made to experiement with and may improve for practice.
+Just some machine-learning work. 
+
+In RBF vs. SVM, some classes I made to experiement with and may improve for practice.
 
 Things to do:
 -accept more dimensions
